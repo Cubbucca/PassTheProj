@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 687882bfc1be1414fb7d8ed4c18496fc, type: 3}
+  m_Name: Water
+  m_EditorClassIdentifier: 
+  Type: 2
+  Points: 100
+  Prefab: {fileID: 4885686828754567996, guid: 4eea8dfee3ac54947b82969138245411, type: 3}
+  CartPrefab: {fileID: 959964431167624424, guid: 687406675bb1a9c47a27d99725ff0dd3, type: 3}
